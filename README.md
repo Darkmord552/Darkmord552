@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm darkmord, website developer and developer bot discord
+
+- 🌱 I’m currently learning C++ and Python
+
+
+
 <!--
 **Darkmord552/Darkmord552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
