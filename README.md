@@ -2,6 +2,7 @@
 <h3 align="center">I'm developer of html websites and developer bot discord</h3>
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">contact@darkmord.pl</h4>
 <p align="left">
 </p>
 
